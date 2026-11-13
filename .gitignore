@@ -1,0 +1,6 @@
+.env
+study_report.txt
+__pycache__/
+*.pyc
+.venv/
+venv/
