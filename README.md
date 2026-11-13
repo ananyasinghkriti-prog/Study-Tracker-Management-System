@@ -99,8 +99,6 @@ MYSQL_PASSWORD=your_mysql_password
 MYSQL_DATABASE=study_tracker
 ```
 
-Replace the example credentials with your own.
-
 **Security Note:** The `.env` file is excluded through `.gitignore`. Never upload or share your database credentials.
 
 ### 6. Run the Application
